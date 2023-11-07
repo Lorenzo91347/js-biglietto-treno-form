@@ -1,0 +1,11 @@
+body{
+    background-color: #b91547;
+}
+.form-insert{
+    color: #b91547;
+    font-weight: bold;
+}
+.pink-border{
+    border-color: #b91547;
+    border-radius: 5px;
+}
